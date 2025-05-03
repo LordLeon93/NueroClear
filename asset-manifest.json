@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NueroClear/static/css/main.dc310e21.css",
+    "main.js": "/NueroClear/static/js/main.202061d8.js",
+    "index.html": "/NueroClear/index.html",
+    "main.dc310e21.css.map": "/NueroClear/static/css/main.dc310e21.css.map",
+    "main.202061d8.js.map": "/NueroClear/static/js/main.202061d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc310e21.css",
+    "static/js/main.202061d8.js"
+  ]
+}
